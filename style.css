@@ -1,0 +1,19 @@
+body {
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #e0eafc, #cfdef3);
+  margin: 0;
+  padding: 40px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  min-height: 100vh;
+  
+}
+
+
+h1 {
+    width: 10000px;
+    height: 500px;
+
+}
